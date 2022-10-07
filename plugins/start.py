@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+
 
 
 from pyrogram import filters
@@ -45,7 +45,7 @@ async def help(client, message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "⭕️ SUPPORT ⭕️", url="https://t.me/teamfoxbotz")
+                        "⭕️ SUPPORT ⭕️", url="https://t.me/teamfox_bots")
                 ]
             ]
         ),
