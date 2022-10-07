@@ -10,7 +10,7 @@
     ],
     "website": "https://TroJanzHEX.me",
     "repository": "https://github.com/TroJanzHEX/Streams-Extractor",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "success_url": "https://telegram.dog/teamfoxbots",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
