@@ -9,7 +9,7 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Streams-Extractor",
+    "repository": "https://github.com/dqanshi/Streams-Extractor",
     "success_url": "https://telegram.dog/teamfoxbots",
     "env": {
         "BOT_TOKEN": {
